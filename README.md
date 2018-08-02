@@ -1,6 +1,6 @@
 # Testing with React Apps Example
 
-This is a demo React Reddux app built with Create React App originally from [the Redux examples folder](https://github.com/reduxjs/redux/tree/master/examples/todomvc).
+This is a demo React Redux app built with Create React App originally from [the Redux examples folder](https://github.com/reduxjs/redux/tree/master/examples/todomvc).
 
 ## Getting started with testing React apps
 

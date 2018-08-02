@@ -1,3 +1,26 @@
+# Testing with React Apps Example
+
+This is a demo React Reddux app built with Create React App originally from [the Redux examples folder](https://github.com/reduxjs/redux/tree/master/examples/todomvc).
+
+## Getting started with testing React apps
+
+When testing React apps, there are a couple different things that need testing.  Tests that how components render and behave are the most common.
+
+This [resource](https://www.codementor.io/vijayst/unit-testing-react-components-jest-or-enzyme-du1087lh8) from codementor provides great context for the common libraries currently used to test React components.
+
+Create React App's documentation has *extensive* instructions for getting started with component testing in a way that is compatitble with Create React App (CRA). CRA includes testing with Jest by default.  The documentation includes instructions for adding Enzyme to tests as well.
+
+See documentation [here](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#running-tests).
+
+## Additional Resources
+
+Will be adding more as we discuss in class.
+
+### Storybook
+
+An interesting new development tool for React components that produces [pretty "books"](https://storybook.js.org/examples/) of components from your project.  This is not something we all need to know, but it's interesting and may be relevant to you if you become a React developer.  It's also very cool that they are tying this in a way of [testing](https://www.learnstorybook.com/react/en/test/) known as ["visual regression testing"](https://www.robinwieruch.de/visual-regression-testing-react-storybook/).
+
+
 # Redux TodoMVC Example
 
 This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app), which provides a simple way to start React projects with no build configuration needed.

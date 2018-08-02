@@ -4,7 +4,7 @@ This is a demo React Reddux app built with Create React App originally from [the
 
 ## Getting started with testing React apps
 
-When testing React apps, there are a couple different things that need testing.  Tests that how components render and behave are the most common.
+When testing React apps, there are a couple different things that need testing.  Tests for how components render and behave are the most common.
 
 This [resource](https://www.codementor.io/vijayst/unit-testing-react-components-jest-or-enzyme-du1087lh8) from codementor provides great context for the common libraries currently used to test React components.
 
